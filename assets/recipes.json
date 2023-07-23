@@ -1,0 +1,115 @@
+[
+    {
+        "title": "Macarrão com Molho de Tomate",
+        "rating": 4.8,
+        "cookTime": "30 minutos",
+        "thumbnailUrl": "assets/images/recip1.webp",
+        "ingredients": [
+            "500g de macarrão",
+            "2 xícaras de molho de tomate",
+            "1 colher de sopa de azeite",
+            "1 dente de alho picado",
+            "Sal e pimenta a gosto",
+            "Queijo ralado para servir"
+        ],
+        "instructions": [
+            "Cozinhe o macarrão em água fervente com sal até ficar al dente.",
+            "Enquanto o macarrão cozinha, prepare o molho: aqueça o azeite em uma panela e refogue o alho até dourar.",
+            "Adicione o molho de tomate, sal e pimenta e deixe cozinhar por alguns minutos.",
+            "Escorra o macarrão e misture com o molho de tomate.",
+            "Sirva com queijo ralado por cima."
+        ]
+    },
+    {
+        "title": "Frango Grelhado",
+        "rating": 4.5,
+        "cookTime": "20 minutos",
+        "thumbnailUrl": "assets/images/recip2.jpeg",
+        "ingredients": [
+            "4 filés de frango",
+            "2 colheres de sopa de suco de limão",
+            "2 colheres de sopa de azeite",
+            "1 colher de chá de alho em pó",
+            "1 colher de chá de páprica",
+            "Sal e pimenta a gosto"
+        ],
+        "instructions": [
+            "Tempere os filés de frango com suco de limão, azeite, alho em pó, páprica, sal e pimenta.",
+            "Deixe marinar por 15 minutos.",
+            "Grelhe o frango em uma frigideira quente até ficar dourado e cozido por completo.",
+            "Sirva com acompanhamentos de sua preferência."
+        ]
+    },
+    {
+        "title": "Salada de Folhas Verdes",
+        "rating": 4.2,
+        "cookTime": "15 minutos",
+        "thumbnailUrl": "assets/images/recip3.jpeg",
+        "ingredients": [
+            "Folhas verdes variadas (alface, rúcula, agrião, etc.)",
+            "Tomate cereja cortado ao meio",
+            "Cenoura ralada",
+            "Pepino em rodelas",
+            "Molho de sua preferência"
+        ],
+        "instructions": [
+            "Lave bem as folhas verdes e seque-as com cuidado.",
+            "Em uma tigela grande, misture as folhas com os tomates, cenoura e pepino.",
+            "Tempere com o molho de sua preferência.",
+            "Sirva imediatamente."
+        ]
+    },
+    {
+        "title": "Sopa de Legumes",
+        "rating": 4.7,
+        "cookTime": "40 minutos",
+        "thumbnailUrl": "assets/images/recip4.webp",
+        "ingredients": [
+            "1 cenoura grande em cubos",
+            "1 batata em cubos",
+            "1 chuchu em cubos",
+            "1 abobrinha em cubos",
+            "1 cebola picada",
+            "2 dentes de alho picados",
+            "1 litro de caldo de legumes",
+            "1 colher de sopa de azeite",
+            "Sal e pimenta a gosto",
+            "Salsinha picada para servir"
+        ],
+        "instructions": [
+            "Em uma panela grande, aqueça o azeite e refogue a cebola e o alho.",
+            "Adicione os legumes e refogue por alguns minutos.",
+            "Despeje o caldo de legumes e cozinhe até que os legumes estejam macios.",
+            "Tempere com sal e pimenta a gosto.",
+            "Sirva quente com salsinha picada por cima."
+        ]
+    },
+    {
+        "title": "Bolo de Chocolate",
+        "rating": 4.9,
+        "cookTime": "1 hora",
+        "thumbnailUrl": "assets/images/recip5.jpeg",
+        "ingredients": [
+            "2 xícaras de farinha de trigo",
+            "1 xícara de cacau em pó",
+            "1 colher de sopa de fermento em pó",
+            "1 colher de chá de bicarbonato de sódio",
+            "1/2 colher de chá de sal",
+            "1 xícara de leite",
+            "1 xícara de açúcar",
+            "1/2 xícara de óleo vegetal",
+            "2 ovos",
+            "1 colher de chá de essência de baunilha",
+            "1 xícara de chocolate meio amargo picado"
+        ],
+        "instructions": [
+            "Preaqueça o forno a 180°C e unte uma forma de bolo.",
+            "Em uma tigela grande, misture a farinha, cacau em pó, fermento, bicarbonato e sal.",
+            "Em outra tigela, misture o leite, açúcar, óleo, ovos e baunilha.",
+            "Combine os ingredientes secos e molhados e misture até ficar homogêneo.",
+            "Adicione o chocolate picado e misture.",
+            "Despeje a massa na forma e asse por cerca de 40-50 minutos, ou até que um palito inserido no centro saia limpo.",
+            "Deixe esfriar antes de servir."
+        ]
+    }
+]
