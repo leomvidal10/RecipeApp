@@ -1,18 +1,11 @@
-# recipeapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# RecipeApp
-# RecipeApp
+<div align="center">
+  <h1>RecipeApp</h1>
+</div>
+<br>
+<div>
+  <p align="center">Projeto desenvolvido em Flutter, que é populado por receitas em JSON!</p>
+  <div align="center">
+    <img width="250px" src="https://raw.githubusercontent.com/leomvidal10/RecipeApp/main/assets/images/img1.png" alt="preview">
+    <img width="250px" src="https://raw.githubusercontent.com/leomvidal10/RecipeApp/main/assets/images/img2.png" alt="preview">
+  </div>
+</div>
