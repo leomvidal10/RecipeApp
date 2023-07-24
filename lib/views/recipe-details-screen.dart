@@ -114,7 +114,7 @@ class RecipeDetailsScreen extends StatelessWidget {
                       const Padding(
                         padding: EdgeInsets.only(top: 20),
                         child: Text(
-                          'Ingredientes:',
+                          'Modo de preparo:',
                           style: TextStyle(
                               fontSize: 18, fontWeight: FontWeight.bold),
                         ),
